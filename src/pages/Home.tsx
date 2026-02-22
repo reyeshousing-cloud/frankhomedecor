@@ -17,7 +17,7 @@ const Home = () => {
       <section className="relative h-screen flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img 
-            src="https://s8.ezgif.com/tmp/ezgif-858fa9afcfbc6b5f.gif" 
+            src="https://i.ibb.co/mCsL6YSZ/7533207-hd-1280-720-60fps.gif" 
             alt="Luxury Interior" 
             className="w-full h-full object-cover filter brightness-50 contrast-125"
           />
